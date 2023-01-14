@@ -1,0 +1,4 @@
+## created a second child branch to show.
+### when you make changes to the child branch, they are only reflected in that branch until you 'pull request' (get someone to review & approve your changes) 
+    and then 'merge' it to the master/main branch
+Print("This is Child Branch #2")
